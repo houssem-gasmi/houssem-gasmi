@@ -49,6 +49,10 @@
 
 <hr/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman.svg" />
+</p>
+<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
